@@ -2,6 +2,9 @@
 
 .box {
   border: 2px solid black;
-  height: 400px;
-  width: 400px;
+  height: 700px;
+  width: 700px;
+  background-image: url("images/people.jpg");
+  background-size: cover;
+  filter: hue-rotate(220deg);
 }
