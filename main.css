@@ -1,8 +1,20 @@
 /* background property:radial conic repeating gradient */
 
 .box {
-  border: 2px solid red;
+  border: 2px solid black;
   height: 400px;
   width: 400px;
-  background: ;
+  background: radial-gradient(
+    circle at bottom,
+    rgb(255, 0, 0) 50%,
+    orange,
+    yellow,
+    black
+  );
+}
+.box2 {
+  border: 2px solid black;
+  height: 400px;
+  width: 400px;
+  background-image: conic-gradient(cyan, yellow, red, blue, cyan);
 }
