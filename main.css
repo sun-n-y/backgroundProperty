@@ -1,12 +1,8 @@
-/* background property:linear gradient */
+/* background property:radial conic repeating gradient */
 
 .box {
   border: 2px solid red;
   height: 400px;
   width: 400px;
-  background: linear-gradient(
-    to right,
-    #274046,
-    #e6dada
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: ;
 }
