@@ -2,7 +2,8 @@
 
 .box {
   border: 1px solid red;
-  height: 510px;
-  width: 510px;
-  background-image: url("./images/peacock.png");
+  height: 500px;
+  width: 900px;
+  background-image: url("./images/people.jpg");
+  background-size: cover;
 }
