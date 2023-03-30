@@ -2,7 +2,7 @@
 
 .box {
   border: 1px solid red;
-  height: 300px;
-  width: 300px;
-  background-image: url("./images/peacock.png"), url("./images/sunset.jpg");
+  height: 510px;
+  width: 510px;
+  background-image: url("./images/peacock.png");
 }
