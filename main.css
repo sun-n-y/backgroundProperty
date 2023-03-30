@@ -2,8 +2,9 @@
 
 .box {
   border: 1px solid red;
-  height: 500px;
-  width: 900px;
-  background-image: url("./images/people.jpg");
+  height: 400px;
+  width: 100px;
+  background-image: url("./images/woman.jpg");
   background-size: cover;
+  background-position: 0% 100%;
 }
